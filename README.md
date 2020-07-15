@@ -1,0 +1,2 @@
+# Web-Scraping-from-NASA
+A moderate web scrapping attempt from https://lightning.nsstc.nasa.gov for lightning data.The challenge was to unify different links and tables for each year from the source. Each link contained a table, each table contained 56 different links where each of those links provided with a table containing around 250 rows. The whole process took hours in Google Colaboratory. The final table was a unification of 1024 tables from 18 years.
